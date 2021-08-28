@@ -1,0 +1,2 @@
+# googleanasayfa
+patika.dev ödevi
